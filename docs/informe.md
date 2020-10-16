@@ -1,13 +1,13 @@
 # Informe Práctica #1: Sistema de control de versiones Git [GitHub] e Infraestructura como servicio [IaaS]
 
-Michael Brian Santana Mon, ​**alu0101013855@ull.edu.es**
-Dirección IP de la VM: ​ **10.6.128.**
-Lenguajes y Paradigmas de Programación, Grado en Ingeniería Informática
-Escuela superior de Ingeniería y Tecnología
-Curso 2020-2021
+- Michael Brian Santana Mon, **alu0101013855@ull.edu.es**
+- Dirección IP de la VM: **10.6.128.**
+- Lenguajes y Paradigmas de Programación, Grado en Ingeniería Informática
+- Escuela superior de Ingeniería y Tecnología
+- Curso 2020-2021
 
 
-**Contenido del fichero ​“.gitconfig”**
+**Contenido del fichero “.gitconfig”**
 
 
 ![imagen 1](https://user-images.githubusercontent.com/32529688/96252606-21bfb180-0faa-11eb-8710-c1a1e958ea37.png)
@@ -17,7 +17,7 @@ Curso 2020-2021
 
 ![imagen 2](https://user-images.githubusercontent.com/32529688/96253061-d954c380-0faa-11eb-87bd-45061d43c9f8.png)
 
-**Contenido actual del directorio ​LPP**
+**Contenido actual del directorio LPP**
 
 
 ![imagen 3](https://user-images.githubusercontent.com/32529688/96253139-fdb0a000-0faa-11eb-92ed-b4f497290727.png)
@@ -57,7 +57,7 @@ Curso 2020-2021
 
 ![imagen 10](https://user-images.githubusercontent.com/32529688/96253633-e2926000-0fab-11eb-9e68-cd30c4e18510.png)
 
-**Detalles del repositorio remoto denominado ​ghp**
+**Detalles del repositorio remoto denominado ghp**
 
 
 ![imagen 11](https://user-images.githubusercontent.com/32529688/96253677-f4740300-0fab-11eb-8c4d-37d5c532c007.png)
@@ -88,8 +88,8 @@ Curso 2020-2021
 ![imagen 16](https://user-images.githubusercontent.com/32529688/96253943-5f253e80-0fac-11eb-9d50-b785a3eaa007.png)
 
 **Direcciones HTTP de los repositorios creados**
-● Repositorio prct01​: **https://github.com/deepy7/prct**
-● Repositorio git-e-iaas-ull: ​ **https://github.com/ULL-ESIT-LPP-2021/git-e-iaas-ull-deepy**
+- Repositorio prct01: **https://github.com/deepy7/prct**
+- Repositorio git-e-iaas-ull: **https://github.com/ULL-ESIT-LPP-2021/git-e-iaas-ull-deepy**
 
 
 <div class="footer">
