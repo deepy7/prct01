@@ -88,7 +88,7 @@
 ![imagen 16](https://user-images.githubusercontent.com/32529688/96253943-5f253e80-0fac-11eb-9d50-b785a3eaa007.png)
 
 **Direcciones HTTP de los repositorios creados**
-- Repositorio prct01: **https://github.com/deepy7/prct**
+- Repositorio prct01: **https://github.com/deepy7/prct01**
 - Repositorio git-e-iaas-ull: **https://github.com/ULL-ESIT-LPP-2021/git-e-iaas-ull-deepy**
 
 
